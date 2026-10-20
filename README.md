@@ -1,4 +1,4 @@
-# LIOLONEY
+# LIOLONEY🍯
 
 **LIOLONEY** is an educational, asyncio-based HTTP/HTTPS credential brute-force
 tool built for authorized penetration testing labs (TryHackMe, HTB, DVWA,
